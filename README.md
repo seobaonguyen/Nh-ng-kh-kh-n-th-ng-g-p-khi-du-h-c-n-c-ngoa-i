@@ -1,114 +1,375 @@
-<div id="362f" class="graf graf--p graf-after--h3">Hàng năm, <a class="markup--anchor markup--p-anchor" href="https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_Vi%E1%BB%87t" target="_blank" rel="nofollow noopener" data-href="https://vi.wikipedia.org/wiki/Người_Việt">người Việt Nam</a> đầu tư một khoản chi phí lớn để cho con du học tại các nước phát triển như Anh, Australia, Mỹ, Canada… Phụ huynh và cả học sinh đều mong muốn tìm kiếm cơ hội trải nghiệm chương trình học chất lượng cao cũng như công việc tốt sau khi ra trường. Tuy nhiên, hầu hết sinh viên gặp không ít khó khăn khi du học.</div>
-<div id="47b0" class="graf graf--p graf-after--p">Rào cản ngôn ngữ</div>
-<div id="3f22" class="graf graf--p graf-after--p">Ngoại ngữ là yếu tố quan trọng du học sinh nào cũng phải chuẩn bị kỹ trước khi ra nước ngoài du học. Học tập và sống ở nước bản địa có thể giúp bạn nâng cao ngoại ngữ nhanh với những học sinh có nền tảng cơ bản vững chắc. Ngược lại, nếu vốn ngoại ngữ ít, sinh viên sẽ gặp không ít khó khăn trong để bắt kịp bài học và giao tiếp trong môi trường sử dụng hoàn toàn ngôn ngữ khác.</div>
-<div id="8831" class="graf graf--p graf-after--p">Mục đích chính của việc du học không chỉ là sử dụng thành thạo ngôn ngữ mà còn thu nạp kiến thức chuyên sâu và phát triển tư duy. Để nâng cao khả năng ngôn ngữ bạn phải đánh giá đúng trình độ của bản thân và chọn lựa phương pháp phù hợp.</div>
-<div id="2a46" class="graf graf--p graf-after--p"><a class="markup--anchor markup--p-anchor" href="http://hoctot.site/" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/">http://hoctot.site/</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/6-tuyet-chieu-giup-ban-co-duoc-bo-ho-ly-tuong-nop-vao-samsung.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/6-tuyet-chieu-giup-ban-co-duoc-bo-ho-ly-tuong-nop-vao-samsung.html">http://hoctot.site/6-tuyet-chieu-giup-ban-co-duoc-bo-ho-ly-tuong-nop-vao-samsung.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/nghi-luan-ve-thong-chu-viet-tieng-viet-cua-thay-bui-hien.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/nghi-luan-ve-thong-chu-viet-tieng-viet-cua-thay-bui-hien.html">http://hoctot.site/nghi-luan-ve-thong-chu-viet-tieng-viet-cua-thay-bui-hien.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/gioi-thieu-ban-bang-tieng-anh-test-gsat-samsung.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/gioi-thieu-ban-bang-tieng-anh-test-gsat-samsung.html">http://hoctot.site/gioi-thieu-ban-bang-tieng-anh-test-gsat-samsung.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/nghi-luan-xa-hoi-song-cham-lai-nghi-khac-di-yeu-thuong-nhieu-hon.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/nghi-luan-xa-hoi-song-cham-lai-nghi-khac-di-yeu-thuong-nhieu-hon.html">http://hoctot.site/nghi-luan-xa-hoi-song-cham-lai-nghi-khac-di-yeu-thuong-nhieu-hon.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/phan-tich-doan-trich-trao-duyen-trong-truyen-kieu-cua-nguyen-du-tu-cau-dau.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/phan-tich-doan-trich-trao-duyen-trong-truyen-kieu-cua-nguyen-du-tu-cau-dau.html">http://hoctot.site/phan-tich-doan-trich-trao-duyen-trong-truyen-kieu-cua-nguyen-du-tu-cau-dau.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ta-mot-em-de-thuong.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ta-mot-em-de-thuong.html">http://hoctot.site/ta-mot-em-de-thuong.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ta-mot-cu-gia-ma-em-biet.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ta-mot-cu-gia-ma-em-biet.html">http://hoctot.site/ta-mot-cu-gia-ma-em-biet.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ke-lai-mot-lan-lam-viec-co-loi-voi-ban.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ke-lai-mot-lan-lam-viec-co-loi-voi-ban.html">http://hoctot.site/ke-lai-mot-lan-lam-viec-co-loi-voi-ban.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/phan-tich-bien-phap-nghe-thuat-du-trong-bai-tho-vieng-lang-bac.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/phan-tich-bien-phap-nghe-thuat-du-trong-bai-tho-vieng-lang-bac.html">http://hoctot.site/phan-tich-bien-phap-nghe-thuat-du-trong-bai-tho-vieng-lang-bac.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/thuyet-minh-ve-mot-ngoi-chua-o-viet-nam-chua-keo.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/thuyet-minh-ve-mot-ngoi-chua-o-viet-nam-chua-keo.html">http://hoctot.site/thuyet-minh-ve-mot-ngoi-chua-o-viet-nam-chua-keo.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ve-dep-tam-hon-nguyen-trai-qua-bai-canh-ngay.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ve-dep-tam-hon-nguyen-trai-qua-bai-canh-ngay.html">http://hoctot.site/ve-dep-tam-hon-nguyen-trai-qua-bai-canh-ngay.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/cac-bai-van-mau-hay-thuong-gap-cua-tap-lam-van-lop-3.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/cac-bai-van-mau-hay-thuong-gap-cua-tap-lam-van-lop-3.html">http://hoctot.site/cac-bai-van-mau-hay-thuong-gap-cua-tap-lam-van-lop-3.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/dien-giai-cac-bien-phap-tu-tu-trong-ngu-van.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/dien-giai-cac-bien-phap-tu-tu-trong-ngu-van.html">http://hoctot.site/dien-giai-cac-bien-phap-tu-tu-trong-ngu-van.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/huong-dan-soan-bai-cha-toi-trich-dang-dich-trai-ngon-hanh-luc.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/huong-dan-soan-bai-cha-toi-trich-dang-dich-trai-ngon-hanh-luc.html">http://hoctot.site/huong-dan-soan-bai-cha-toi-trich-dang-dich-trai-ngon-hanh-luc.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/soan-bai-tinh-thong-nhat-chu-de-cua-van-ban.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/soan-bai-tinh-thong-nhat-chu-de-cua-van-ban.html">http://hoctot.site/soan-bai-tinh-thong-nhat-chu-de-cua-van-ban.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/thu-gui-ba-o-truong-sa.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/thu-gui-ba-o-truong-sa.html">http://hoctot.site/thu-gui-ba-o-truong-sa.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/viet-mot-van-tu-8-den-10-cau-ve-canh-dep-cua-que-huong-em-trong-co-su-dung-dau-ngoac-kep.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/viet-mot-van-tu-8-den-10-cau-ve-canh-dep-cua-que-huong-em-trong-co-su-dung-dau-ngoac-kep.html">http://hoctot.site/viet-mot-van-tu-8-den-10-cau-ve-canh-dep-cua-que-huong-em-trong-co-su-dung-dau-ngoac-kep.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/phan-tich-hinh-anh-chiec-thuyen-trong-tac-pham-chiec-thuyen-ngoai-xa-cua-nguyen-minh-chau.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/phan-tich-hinh-anh-chiec-thuyen-trong-tac-pham-chiec-thuyen-ngoai-xa-cua-nguyen-minh-chau.html">http://hoctot.site/phan-tich-hinh-anh-chiec-thuyen-trong-tac-pham-chiec-thuyen-ngoai-xa-cua-nguyen-minh-chau.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/phan-tich-tam-trang-chu-ho-trong-bai-nho-rung-cua-lu.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/phan-tich-tam-trang-chu-ho-trong-bai-nho-rung-cua-lu.html">http://hoctot.site/phan-tich-tam-trang-chu-ho-trong-bai-nho-rung-cua-lu.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/phan-tich-nhan-vat-con-ho-trong-bai-tho-nho-rung-cua-lu.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/phan-tich-nhan-vat-con-ho-trong-bai-tho-nho-rung-cua-lu.html">http://hoctot.site/phan-tich-nhan-vat-con-ho-trong-bai-tho-nho-rung-cua-lu.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/cam-nhan-doan-tho-sau-nao-dau-nhung-dem-vang-ben-bo-suoi-ta-doi-chet-manh-mat-troi-gay-gat.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/cam-nhan-doan-tho-sau-nao-dau-nhung-dem-vang-ben-bo-suoi-ta-doi-chet-manh-mat-troi-gay-gat.html">http://hoctot.site/cam-nhan-doan-tho-sau-nao-dau-nhung-dem-vang-ben-bo-suoi-ta-doi-chet-manh-mat-troi-gay-gat.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/gioi-thieu-tac-pham-nho-rung-va-nha-tho-lu.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/gioi-thieu-tac-pham-nho-rung-va-nha-tho-lu.html">http://hoctot.site/gioi-thieu-tac-pham-nho-rung-va-nha-tho-lu.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/binh-giang-doan-tho-trong-doan-trich-dat-nuoc.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/binh-giang-doan-tho-trong-doan-trich-dat-nuoc.html">http://hoctot.site/binh-giang-doan-tho-trong-doan-trich-dat-nuoc.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/nhan-xet-lu-nhu-mot-vi-tuong-dieu-khien-doi-quan-viet-ngu.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/nhan-xet-lu-nhu-mot-vi-tuong-dieu-khien-doi-quan-viet-ngu.html">http://hoctot.site/nhan-xet-lu-nhu-mot-vi-tuong-dieu-khien-doi-quan-viet-ngu.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/phan-tich-cac-tang-nghia-trong-doan-tho-dat-nhat-trong-nho-rung.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/phan-tich-cac-tang-nghia-trong-doan-tho-dat-nhat-trong-nho-rung.html">http://hoctot.site/phan-tich-cac-tang-nghia-trong-doan-tho-dat-nhat-trong-nho-rung.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/phan-tich-ao-dau-nhung-dem-vang-ben-bo-suoi-oi-thoi-oanh-liet-nay-con-dau.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/phan-tich-ao-dau-nhung-dem-vang-ben-bo-suoi-oi-thoi-oanh-liet-nay-con-dau.html">http://hoctot.site/phan-tich-ao-dau-nhung-dem-vang-ben-bo-suoi-oi-thoi-oanh-liet-nay-con-dau.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/tam-trang-chu-ho-trong-bai-tho-nho-rung-cua-lu.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/tam-trang-chu-ho-trong-bai-tho-nho-rung-cua-lu.html">http://hoctot.site/tam-trang-chu-ho-trong-bai-tho-nho-rung-cua-lu.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/phan-tich-cai-hay-cua-hinh-anh-tho-la-vang-roi-tren-giay-ngoai-gioi-mua-bui-bay.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/phan-tich-cai-hay-cua-hinh-anh-tho-la-vang-roi-tren-giay-ngoai-gioi-mua-bui-bay.html">http://hoctot.site/phan-tich-cai-hay-cua-hinh-anh-tho-la-vang-roi-tren-giay-ngoai-gioi-mua-bui-bay.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/gia-tri-bieu-cam-cua-2-cau-tho-giay-buon-khong-tham-muc-dong-trong-nghien-sau.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/gia-tri-bieu-cam-cua-2-cau-tho-giay-buon-khong-tham-muc-dong-trong-nghien-sau.html">http://hoctot.site/gia-tri-bieu-cam-cua-2-cau-tho-giay-buon-khong-tham-muc-dong-trong-nghien-sau.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/phan-tich-bai-tho-ong-cua-tac-gia-vu-dinh-lien.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/phan-tich-bai-tho-ong-cua-tac-gia-vu-dinh-lien.html">http://hoctot.site/phan-tich-bai-tho-ong-cua-tac-gia-vu-dinh-lien.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/doc-hieu-bai-nhan-cua-nguyen-binh-khiem.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/doc-hieu-bai-nhan-cua-nguyen-binh-khiem.html">http://hoctot.site/doc-hieu-bai-nhan-cua-nguyen-binh-khiem.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/phan-tich-bai-tho-canh-ngay-cua-nguyen-trai.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/phan-tich-bai-tho-canh-ngay-cua-nguyen-trai.html">http://hoctot.site/phan-tich-bai-tho-canh-ngay-cua-nguyen-trai.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/noi-long-sau-tham-cua-nguyen-trai-qua-bai-tho-canh-ngay.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/noi-long-sau-tham-cua-nguyen-trai-qua-bai-tho-canh-ngay.html">http://hoctot.site/noi-long-sau-tham-cua-nguyen-trai-qua-bai-tho-canh-ngay.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/cam-nhan-ve-canh-ngay-cua-nguyen-trai.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/cam-nhan-ve-canh-ngay-cua-nguyen-trai.html">http://hoctot.site/cam-nhan-ve-canh-ngay-cua-nguyen-trai.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/cam-nhan-ve-bai-banh-troi-nuoc.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/cam-nhan-ve-bai-banh-troi-nuoc.html">http://hoctot.site/cam-nhan-ve-bai-banh-troi-nuoc.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/cam-tuong-cua-anh-chi-ve-bai-tho-long-cua-pham-ngu-lao.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/cam-tuong-cua-anh-chi-ve-bai-tho-long-cua-pham-ngu-lao.html">http://hoctot.site/cam-tuong-cua-anh-chi-ve-bai-tho-long-cua-pham-ngu-lao.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/bieu-cam-toi-thay-minh-da-khon-lon.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/bieu-cam-toi-thay-minh-da-khon-lon.html">http://hoctot.site/bieu-cam-toi-thay-minh-da-khon-lon.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ta-mot-chau-lan-dau-tien-em-moi-gap.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ta-mot-chau-lan-dau-tien-em-moi-gap.html">http://hoctot.site/ta-mot-chau-lan-dau-tien-em-moi-gap.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/7-kinh-nghiem-hoc-tot-tieng-anh.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/7-kinh-nghiem-hoc-tot-tieng-anh.html">http://hoctot.site/7-kinh-nghiem-hoc-tot-tieng-anh.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ve-dep-nhan-cach-tu-xuong-trong-bai-tho-thuong-vo.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ve-dep-nhan-cach-tu-xuong-trong-bai-tho-thuong-vo.html">http://hoctot.site/ve-dep-nhan-cach-tu-xuong-trong-bai-tho-thuong-vo.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/phan-tich-nhan-vat-duong-vuong-trong-truyen-thuyet-duong-vuong-va-mi-chau-trong-thuy.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/phan-tich-nhan-vat-duong-vuong-trong-truyen-thuyet-duong-vuong-va-mi-chau-trong-thuy.html">http://hoctot.site/phan-tich-nhan-vat-duong-vuong-trong-truyen-thuyet-duong-vuong-va-mi-chau-trong-thuy.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/soan-bai-cuoc-chia-tay-cua-nhung-con-bup.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/soan-bai-cuoc-chia-tay-cua-nhung-con-bup.html">http://hoctot.site/soan-bai-cuoc-chia-tay-cua-nhung-con-bup.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/cam-nghi-cua-anh-chi-ve-thoi-khac-giao-mua-qua-tac-pham-sang-thu.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/cam-nghi-cua-anh-chi-ve-thoi-khac-giao-mua-qua-tac-pham-sang-thu.html">http://hoctot.site/cam-nghi-cua-anh-chi-ve-thoi-khac-giao-mua-qua-tac-pham-sang-thu.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/phan-tich-mau-sac-nam-bo-trong-truyen-ngan-nhung-dua-con-trong-gia-dinh-cua-nguyen-thi.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/phan-tich-mau-sac-nam-bo-trong-truyen-ngan-nhung-dua-con-trong-gia-dinh-cua-nguyen-thi.html">http://hoctot.site/phan-tich-mau-sac-nam-bo-trong-truyen-ngan-nhung-dua-con-trong-gia-dinh-cua-nguyen-thi.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/qua-phan-tich-ong-chung-minh-y-kien-cua-vu-quan-phuong.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/qua-phan-tich-ong-chung-minh-y-kien-cua-vu-quan-phuong.html">http://hoctot.site/qua-phan-tich-ong-chung-minh-y-kien-cua-vu-quan-phuong.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ong-vu-dinh-lien-da-cham-duoc-vao-nhung-rung-cam-cua-sau.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ong-vu-dinh-lien-da-cham-duoc-vao-nhung-rung-cam-cua-sau.html">http://hoctot.site/ong-vu-dinh-lien-da-cham-duoc-vao-nhung-rung-cam-cua-sau.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/chung-minh-va-giai-thich-cau-tuc-ngu-uong-nuoc-nho-nguon.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/chung-minh-va-giai-thich-cau-tuc-ngu-uong-nuoc-nho-nguon.html">http://hoctot.site/chung-minh-va-giai-thich-cau-tuc-ngu-uong-nuoc-nho-nguon.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/chung-minh-van-hoc-la-nghe-thuat-ngon-tu.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/chung-minh-van-hoc-la-nghe-thuat-ngon-tu.html">http://hoctot.site/chung-minh-van-hoc-la-nghe-thuat-ngon-tu.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/hinh-anh-nguoi-phu-nu-viet-nam-trong-ca-dao.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/hinh-anh-nguoi-phu-nu-viet-nam-trong-ca-dao.html">http://hoctot.site/hinh-anh-nguoi-phu-nu-viet-nam-trong-ca-dao.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/chung-minh-ca-dao-la-tieng-noi-ve-tinh-cam-gia-dinh-dam-tham-thiet-tha-cua-con-nguoi-viet-nam.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/chung-minh-ca-dao-la-tieng-noi-ve-tinh-cam-gia-dinh-dam-tham-thiet-tha-cua-con-nguoi-viet-nam.html">http://hoctot.site/chung-minh-ca-dao-la-tieng-noi-ve-tinh-cam-gia-dinh-dam-tham-thiet-tha-cua-con-nguoi-viet-nam.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/chung-minh-cau-noi-hoc-hoc-nua-hoc-mai.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/chung-minh-cau-noi-hoc-hoc-nua-hoc-mai.html">http://hoctot.site/chung-minh-cau-noi-hoc-hoc-nua-hoc-mai.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/hay-chung-minh-rang-bao-ve-rung-bao-ve-cuoc-song-cua-chung-ta.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/hay-chung-minh-rang-bao-ve-rung-bao-ve-cuoc-song-cua-chung-ta.html">http://hoctot.site/hay-chung-minh-rang-bao-ve-rung-bao-ve-cuoc-song-cua-chung-ta.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/chung-minh-cau-tuc-ngu-thuong-nguoi-nhu-thuong.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/chung-minh-cau-tuc-ngu-thuong-nguoi-nhu-thuong.html">http://hoctot.site/chung-minh-cau-tuc-ngu-thuong-nguoi-nhu-thuong.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/chung-minh-cau-tuc-ngu-qua-nho-ke-trong-cay.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/chung-minh-cau-tuc-ngu-qua-nho-ke-trong-cay.html">http://hoctot.site/chung-minh-cau-tuc-ngu-qua-nho-ke-trong-cay.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/chung-minh-rang-bao-ve-rung-la-bao-ve-cuoc-song-cua-chung-ta.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/chung-minh-rang-bao-ve-rung-la-bao-ve-cuoc-song-cua-chung-ta.html">http://hoctot.site/chung-minh-rang-bao-ve-rung-la-bao-ve-cuoc-song-cua-chung-ta.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/chung-minh-van-chuong-sang-tao-ra-su-song.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/chung-minh-van-chuong-sang-tao-ra-su-song.html">http://hoctot.site/chung-minh-van-chuong-sang-tao-ra-su-song.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/van-chung-minh-cau-noi-hoc-hoc-nua-hoc-mai.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/van-chung-minh-cau-noi-hoc-hoc-nua-hoc-mai.html">http://hoctot.site/van-chung-minh-cau-noi-hoc-hoc-nua-hoc-mai.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/chung-minh-rang-can-phai-chon-sach-ma-doc.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/chung-minh-rang-can-phai-chon-sach-ma-doc.html">http://hoctot.site/chung-minh-rang-can-phai-chon-sach-ma-doc.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/luyen-tap-viet-doan-van-chung-minh.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/luyen-tap-viet-doan-van-chung-minh.html">http://hoctot.site/luyen-tap-viet-doan-van-chung-minh.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/chung-minh-cau-co-cong-mai-sat-co-ngay-nen-kim.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/chung-minh-cau-co-cong-mai-sat-co-ngay-nen-kim.html">http://hoctot.site/chung-minh-cau-co-cong-mai-sat-co-ngay-nen-kim.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/viet-bai-tap-lam-van-5-lop-7.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/viet-bai-tap-lam-van-5-lop-7.html">http://hoctot.site/viet-bai-tap-lam-van-5-lop-7.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/luyen-tap-lap-luan-chung-minh.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/luyen-tap-lap-luan-chung-minh.html">http://hoctot.site/luyen-tap-lap-luan-chung-minh.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/cach-lam-bai-van-lap-luan-chung-minh.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/cach-lam-bai-van-lap-luan-chung-minh.html">http://hoctot.site/cach-lam-bai-van-lap-luan-chung-minh.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/tim-hieu-chung-ve-phep-lap-luan-chung-minh.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/tim-hieu-chung-ve-phep-lap-luan-chung-minh.html">http://hoctot.site/tim-hieu-chung-ve-phep-lap-luan-chung-minh.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/cam-nghi-ve-noi-dau-cua-anh-em-khi-gia-dinh-tan-nat.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/cam-nghi-ve-noi-dau-cua-anh-em-khi-gia-dinh-tan-nat.html">http://hoctot.site/cam-nghi-ve-noi-dau-cua-anh-em-khi-gia-dinh-tan-nat.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ke-ve-mot-cuoc-gap-go-voi-cac-anh-bo-doi-nhan-ngay-thanh-lap-quan-doi-nhan-dan-viet-nam.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ke-ve-mot-cuoc-gap-go-voi-cac-anh-bo-doi-nhan-ngay-thanh-lap-quan-doi-nhan-dan-viet-nam.html">http://hoctot.site/ke-ve-mot-cuoc-gap-go-voi-cac-anh-bo-doi-nhan-ngay-thanh-lap-quan-doi-nhan-dan-viet-nam.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ke-lai-dien-cam-truyen-em-thong-minh-bang-loi-van-cua-em-va-hay-neu-cam-nghi.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ke-lai-dien-cam-truyen-em-thong-minh-bang-loi-van-cua-em-va-hay-neu-cam-nghi.html">http://hoctot.site/ke-lai-dien-cam-truyen-em-thong-minh-bang-loi-van-cua-em-va-hay-neu-cam-nghi.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/dong-vai-nhan-vat-ong-hoa-si-ke-lai-cuoc-gap-go-thu-vi-voi-anh-thanh-nien-trong-truyen-ngan-lang-le-sa-pa.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/dong-vai-nhan-vat-ong-hoa-si-ke-lai-cuoc-gap-go-thu-vi-voi-anh-thanh-nien-trong-truyen-ngan-lang-le-sa-pa.html">http://hoctot.site/dong-vai-nhan-vat-ong-hoa-si-ke-lai-cuoc-gap-go-thu-vi-voi-anh-thanh-nien-trong-truyen-ngan-lang-le-sa-pa.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/dua-vao-truyen-co-tich-thach-sanh-em-hay-dong-vai-thach-sanh-ke-lai-chien-cong-diet-dai-bang-cuu-cong-chua.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/dua-vao-truyen-co-tich-thach-sanh-em-hay-dong-vai-thach-sanh-ke-lai-chien-cong-diet-dai-bang-cuu-cong-chua.html">http://hoctot.site/dua-vao-truyen-co-tich-thach-sanh-em-hay-dong-vai-thach-sanh-ke-lai-chien-cong-diet-dai-bang-cuu-cong-chua.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ke-lai-mot-lan-lam-viec-co-loi-voi-ban-2.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ke-lai-mot-lan-lam-viec-co-loi-voi-ban-2.html">http://hoctot.site/ke-lai-mot-lan-lam-viec-co-loi-voi-ban-2.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ke-lai-chuyen-gia-dinh-em-vao-mot-toi-thu-bay.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ke-lai-chuyen-gia-dinh-em-vao-mot-toi-thu-bay.html">http://hoctot.site/ke-lai-chuyen-gia-dinh-em-vao-mot-toi-thu-bay.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/van-thuyet-minh-ve-non-bao-hiem.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/van-thuyet-minh-ve-non-bao-hiem.html">http://hoctot.site/van-thuyet-minh-ve-non-bao-hiem.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/dua-vao-noi-dung-tac-pham-lang-le-sa-pa-cua-nguyen-thanh-long-hay-dong-vai-nhan-vat-co-ki-su-de-ke-lai-cau-chuyen.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/dua-vao-noi-dung-tac-pham-lang-le-sa-pa-cua-nguyen-thanh-long-hay-dong-vai-nhan-vat-co-ki-su-de-ke-lai-cau-chuyen.html">http://hoctot.site/dua-vao-noi-dung-tac-pham-lang-le-sa-pa-cua-nguyen-thanh-long-hay-dong-vai-nhan-vat-co-ki-su-de-ke-lai-cau-chuyen.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/dong-vai-thu-trong-truyen-chiec-luoc-nga-cua-nguyen-quang-sang-va-ke-lai-cau-chuyen.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/dong-vai-thu-trong-truyen-chiec-luoc-nga-cua-nguyen-quang-sang-va-ke-lai-cau-chuyen.html">http://hoctot.site/dong-vai-thu-trong-truyen-chiec-luoc-nga-cua-nguyen-quang-sang-va-ke-lai-cau-chuyen.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/dong-vai-nhan-vat-thu-ke-lai-cau-chuyen-chiec-luoc-nga.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/dong-vai-nhan-vat-thu-ke-lai-cau-chuyen-chiec-luoc-nga.html">http://hoctot.site/dong-vai-nhan-vat-thu-ke-lai-cau-chuyen-chiec-luoc-nga.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ha%cc%83y-thay-loi-ong-hai-trong-truye%cc%a3n-ngan-lang-ke%cc%89-la%cc%a3i-vie%cc%a3c-ong-hai-nghe-tin-lang-theo-gia%cc%a3c.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ha%cc%83y-thay-loi-ong-hai-trong-truye%cc%a3n-ngan-lang-ke%cc%89-la%cc%a3i-vie%cc%a3c-ong-hai-nghe-tin-lang-theo-gia%cc%a3c.html">http://hoctot.site/ha%cc%83y-thay-loi-ong-hai-trong-truye%cc%a3n-ngan-lang-ke%cc%89-la%cc%a3i-vie%cc%a3c-ong-hai-nghe-tin-lang-theo-gia%cc%a3c.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/hay-tuong-tuong-minh-gap-go-va-tro-truyen-voi-nguoi-linh-lai-xe-trong-bai-tho-ve-tieu-doi-xe-khong-kinh-cua-phamtien-duat-viet-bai-van-ve-cuoc-gap-go-va-tro-chuyen.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/hay-tuong-tuong-minh-gap-go-va-tro-truyen-voi-nguoi-linh-lai-xe-trong-bai-tho-ve-tieu-doi-xe-khong-kinh-cua-phamtien-duat-viet-bai-van-ve-cuoc-gap-go-va-tro-chuyen.html">http://hoctot.site/hay-tuong-tuong-minh-gap-go-va-tro-truyen-voi-nguoi-linh-lai-xe-trong-bai-tho-ve-tieu-doi-xe-khong-kinh-cua-phamtien-duat-viet-bai-van-ve-cuoc-gap-go-va-tro-chuyen.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/dong-vai-nguoi-chau-ke-lai-ki-niem-tinh-ba-chau-trong-bai-tho-bep-lua-cua-bang-viet.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/dong-vai-nguoi-chau-ke-lai-ki-niem-tinh-ba-chau-trong-bai-tho-bep-lua-cua-bang-viet.html">http://hoctot.site/dong-vai-nguoi-chau-ke-lai-ki-niem-tinh-ba-chau-trong-bai-tho-bep-lua-cua-bang-viet.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/em-da-giup-mot-ba-cu-qua-duong-vao-luc-dong-nguoi-va-nhieu-xe-co-di-lai-hay-ke-lai-su-viec.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/em-da-giup-mot-ba-cu-qua-duong-vao-luc-dong-nguoi-va-nhieu-xe-co-di-lai-hay-ke-lai-su-viec.html">http://hoctot.site/em-da-giup-mot-ba-cu-qua-duong-vao-luc-dong-nguoi-va-nhieu-xe-co-di-lai-hay-ke-lai-su-viec.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/dua-vao-van-ban-hoang-le-nhat-thong-chi-hoi-thu-muoi-bon-ket-hop-su-dung-yeu-mieu-ta-noi-tam-em-hay-dong-vai-vua-quang-trung-ke-lai-chuyen-danh-bai-giac-thanh-xam-luoc.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/dua-vao-van-ban-hoang-le-nhat-thong-chi-hoi-thu-muoi-bon-ket-hop-su-dung-yeu-mieu-ta-noi-tam-em-hay-dong-vai-vua-quang-trung-ke-lai-chuyen-danh-bai-giac-thanh-xam-luoc.html">http://hoctot.site/dua-vao-van-ban-hoang-le-nhat-thong-chi-hoi-thu-muoi-bon-ket-hop-su-dung-yeu-mieu-ta-noi-tam-em-hay-dong-vai-vua-quang-trung-ke-lai-chuyen-danh-bai-giac-thanh-xam-luoc.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ke-ve-mot-nguoi-ban-thiet-cua-em.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ke-ve-mot-nguoi-ban-thiet-cua-em.html">http://hoctot.site/ke-ve-mot-nguoi-ban-thiet-cua-em.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ke-lai-truyen-tam-cam-theo-loi-cua-nhan-vat-tam.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ke-lai-truyen-tam-cam-theo-loi-cua-nhan-vat-tam.html">http://hoctot.site/ke-lai-truyen-tam-cam-theo-loi-cua-nhan-vat-tam.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ke-lai-truyen-duong-vuong-va-mi-chau-trong-thuy-tuong-tuong-mot-doan-ket-khac-voi-cach-ket-thuc-cua-tac-gia-dan-gian.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ke-lai-truyen-duong-vuong-va-mi-chau-trong-thuy-tuong-tuong-mot-doan-ket-khac-voi-cach-ket-thuc-cua-tac-gia-dan-gian.html">http://hoctot.site/ke-lai-truyen-duong-vuong-va-mi-chau-trong-thuy-tuong-tuong-mot-doan-ket-khac-voi-cach-ket-thuc-cua-tac-gia-dan-gian.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ke-lai-ki-niem-voi-nguoi-ban-cua-em.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ke-lai-ki-niem-voi-nguoi-ban-cua-em.html">http://hoctot.site/ke-lai-ki-niem-voi-nguoi-ban-cua-em.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/ke-lai-chuyen-sau-khi-tu-tu-o-gieng-loa-thanh-xuong-thuy-cung-trong-thuy-da-tim-gap-lai-mi-chau.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/ke-lai-chuyen-sau-khi-tu-tu-o-gieng-loa-thanh-xuong-thuy-cung-trong-thuy-da-tim-gap-lai-mi-chau.html">http://hoctot.site/ke-lai-chuyen-sau-khi-tu-tu-o-gieng-loa-thanh-xuong-thuy-cung-trong-thuy-da-tim-gap-lai-mi-chau.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/bang-von-song-va-kinh-nghiem-hay-ke-mot-cau-chuyen-ve-mot-hoc-sinh-tot-pham-mot-sai-lam-nhung-da-kip-thoi-tinh-ngo-chien-thang-ban.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/bang-von-song-va-kinh-nghiem-hay-ke-mot-cau-chuyen-ve-mot-hoc-sinh-tot-pham-mot-sai-lam-nhung-da-kip-thoi-tinh-ngo-chien-thang-ban.html">http://hoctot.site/bang-von-song-va-kinh-nghiem-hay-ke-mot-cau-chuyen-ve-mot-hoc-sinh-tot-pham-mot-sai-lam-nhung-da-kip-thoi-tinh-ngo-chien-thang-ban.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/nguoi-ay-song-mai-trong-long-toi-viet-ve-ngoai.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/nguoi-ay-song-mai-trong-long-toi-viet-ve-ngoai.html">http://hoctot.site/nguoi-ay-song-mai-trong-long-toi-viet-ve-ngoai.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/viet-bai-tap-lam-van-1-lop-8%e2%80%b3-ke-lai-nhung-ki-niem-ngay-dau-tien-di-hoc.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/viet-bai-tap-lam-van-1-lop-8%e2%80%b3-ke-lai-nhung-ki-niem-ngay-dau-tien-di-hoc.html">http://hoctot.site/viet-bai-tap-lam-van-1-lop-8%e2%80%b3-ke-lai-nhung-ki-niem-ngay-dau-tien-di-hoc.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/soan-bai-cuoc-chia-tay-cua-nhung-con-bup-2.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/soan-bai-cuoc-chia-tay-cua-nhung-con-bup-2.html">http://hoctot.site/soan-bai-cuoc-chia-tay-cua-nhung-con-bup-2.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/phan-tich-18-cau-dau-trong-doan-trich-trao-duyen.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/phan-tich-18-cau-dau-trong-doan-trich-trao-duyen.html">http://hoctot.site/phan-tich-18-cau-dau-trong-doan-trich-trao-duyen.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/sang-tac-mot-truyen-ngan-theo-de-tai-tu-chon-mang-y-nghia-xa-hoi-co-tac-dung-giao-duc-thiet-thuc-doi-voi-tuoi-tre-hien-nay.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/sang-tac-mot-truyen-ngan-theo-de-tai-tu-chon-mang-y-nghia-xa-hoi-co-tac-dung-giao-duc-thiet-thuc-doi-voi-tuoi-tre-hien-nay.html">http://hoctot.site/sang-tac-mot-truyen-ngan-theo-de-tai-tu-chon-mang-y-nghia-xa-hoi-co-tac-dung-giao-duc-thiet-thuc-doi-voi-tuoi-tre-hien-nay.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/chuyen-bai-tho-anh-trang-thanh-mot-cau-chuyen.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/chuyen-bai-tho-anh-trang-thanh-mot-cau-chuyen.html">http://hoctot.site/chuyen-bai-tho-anh-trang-thanh-mot-cau-chuyen.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/gia-tri-lich-su-va-chat-chinh-luan-trong-tuyen-ngon-doc-lap-cua-ho-chi-minh.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/gia-tri-lich-su-va-chat-chinh-luan-trong-tuyen-ngon-doc-lap-cua-ho-chi-minh.html">http://hoctot.site/gia-tri-lich-su-va-chat-chinh-luan-trong-tuyen-ngon-doc-lap-cua-ho-chi-minh.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/phan-tich-hai-kho-tho-dau-bai-tho-vieng-lang-bac-cua-vien-phuong.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/phan-tich-hai-kho-tho-dau-bai-tho-vieng-lang-bac-cua-vien-phuong.html">http://hoctot.site/phan-tich-hai-kho-tho-dau-bai-tho-vieng-lang-bac-cua-vien-phuong.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/phan-tich-bai-tho-tuc-canh-pac-bo.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/phan-tich-bai-tho-tuc-canh-pac-bo.html">http://hoctot.site/phan-tich-bai-tho-tuc-canh-pac-bo.html</a>
-<a class="markup--anchor markup--p-anchor" href="http://hoctot.site/cau-chuyenbai-hoc-cho-tinh-ban.html" target="_blank" rel="nofollow noopener" data-href="http://hoctot.site/cau-chuyenbai-hoc-cho-tinh-ban.html">http://hoctot.site/cau-chuyenbai-hoc-cho-tinh-ban.html</a></div>
-<div id="ba74" class="graf graf--p graf-after--p">Du học giúp bạn có những trải nghiệm văn hoá mới ở những vùng đất khác nhau. Tuy nhiên, việc phải xa gia đình, bạn bè đến một đất nước xa lạ, sống trong nền văn hóa và những mối quan hệ mới khiến không ít bạn trẻ bị shock.</div>
-<div id="d483" class="graf graf--p graf-after--p">Nhớ nhà, cảm thấy cô đơn, trống trải là những cảm giác rất nhiều du học sinh gặp phải trong thời gian đầu du học. Nếu không chuẩn bị tinh thần trước, bạn sẽ mất nhiều thời gian để thích nghi.</div>
-<div id="f9f4" class="graf graf--p graf-after--p">Gánh nặng chi phí</div>
-<div id="5a97" class="graf graf--p graf-after--p">Nghiên cứu gần đây của một ngân hàng tại TP HCM cho thấy, phụ huynh Việt Nam chi khoảng 30.000 USD học phí một năm cho con du học ở các nước phát triển như Mỹ, Canada, Australia… Ngoài ra, du học sinh còn phải chi một khoản lớn cho việc ăn ở, di chuyển, mua sắm…</div>
-<div id="d321" class="graf graf--p graf-after--p">Cử nhân tốt nghiệp tại Đại học Anh quốc Việt Nam (British University Vietnam — BUV).
-Cử nhân tốt nghiệp tại Đại học Anh quốc Việt Nam (British University Vietnam — BUV).</div>
-<div id="a370" class="graf graf--p graf-after--p">Lựa chọn “du học” tại chỗ</div>
-<div id="993e" class="graf graf--p graf-after--p">Lường trước những khó khăn khi cho con du học nước ngoài, nhiều phụ huynh khuyến khích con em theo học ở các trường đại học quốc tế tại Việt Nam. Lựa chọn này giúp sinh viên vừa tận hưởng môi trường quốc tế và nhận bằng cấp toàn cầu mà vẫn có thể sống gần gia đình, bạn bè.</div>
-<div id="efea" class="graf graf--p graf-after--p">Trong đó, Đại học Anh quốc Việt Nam (British University Vietnam — BUV) được nhiều sinh viên lựa chọn bởi chất lượng giảng dạy cao, môi trưởng — bằng cấp chuẩn quốc tế.</div>
-<div id="48b2" class="graf graf--p graf-after--p">BUV là trường đại học quốc tế, sinh viên được cấp bằng trực tiếp từ Đại học London và <a class="markup--anchor markup--p-anchor" href="https://www.hotcourses.vn/study/uk/school-college-university/staffordshire-university/3697/international.html" target="_blank" rel="nofollow noopener" data-href="https://www.hotcourses.vn/study/uk/school-college-university/staffordshire-university/3697/international.html">Đại học Staffordshire</a> của Anh quốc ngay ở Việt Nam. Tại BUV, sinh viên sẽ nhận bằng trực tiếp từ Đại học London hay Đại học Staffordshire danh giá với mức học phí dưới 10.000 USD mỗi năm. Sinh viên bắt đầu thực tập từ năm đầu tiên tại nhiều công ty lớn như Deloitte, Prudential, HSBC…</div>
-<div id="d591" class="graf graf--p graf-after--p">100% sinh viên tốt nghiệp từ BUV có việc làm ngay hoặc 3 tháng sau khi tốt nghiệp. Đối với học sinh, sinh viên có nhu cầu nâng cao tiếng Anh, BUV có khoá học phù hợp với nhiều trình độ khác nhau. Bạn có thể trải nghiệm môi trường học tập Anh quốc ngay tại đất nước mình.</div>
-<div id="1865" class="graf graf--p graf-after--p">Nhiều sinh viên của trường giành những suất học bổng lớn, như Phạm Hoàng Đức và Nguyễn Quỳnh Hương đã vượt qua nhiều ứng viên khác để nhận học bổng của Phòng Thương mại Mỹ tại Việt Nam. Ngoài giải thưởng tiền mặt, Đức và Hương còn được tham gia khóa đào tạo ngắn hạn của hiệp hội cùng những hỗ trợ việc làm và thực tập từ các thành viên trong hội.</div>
-<div id="a3a0" class="graf graf--p graf-after--p graf--trailing">BUV hiện có nhiều suất học bổng trị giá 100% học phí cho những sinh viên đạt thành tích xuất sắc trong học tập và hoạt động ngoại khóa. Đặc biệt, sinh viên chuyển tiếp sẽ có cơ hội nhận học bổng giá trị 170 triệu đồng; học sinh hoàn thành kỳ thi tốt nghiệp năm 2017 có cơ hội nhận học bổng trị giá 280 triệu đồng</div>
+Hiện nay càng có nhiều người dùng chọn lựa máy tính bảng Windows để sử dụng bởi những tiện lợi mà sản phẩm mang lại. Bên cạnh công nghệ hiện đại sản phẩm cũng sở hữu nhiều kích thước đa dạng từ 6 inch, 8 inch và 10 inch. Toàn bộ những dòng sản phẩm máy tính bảng này đều có đi kèm bàn phím, khả năng chống nước, bút cảm ứng. Điều này giúp người dùng có nhiều lựa chọn để đồng hành trong công việc cũng như nhu cầu giải trí hàng ngày.
+
+Máy tính bảng Windows có điểm gì đặc biệt?
+
+Máy tính bảng Windows được bán phổ cập trên thị trường với sự đa dạng về hệ điều hành từ IOS đến hệ điều hành Android và cả Windows nữa. Vậy đâu là sản phẩm hấp dẫn nhất để người dùng đầu tư đúng đắn nhất.
+
+Điểm nổi bật của thiết bị đó là khả năng làm việc và sử dụng như một chiếc máy tính chạy hệ điều hành Windows nên đây là lựa chọn tốt nhất nếu bạn cần xử lý công việc trong khi di chuyển. Nếu bạn muốn cài đặt bộ Office trên máy tính bảng để sử dụng làm việc ở nhiều nơi. Bên cạnh đó bạn cũng có kiểm tra tài liệu trước buổi hội thảo tại quán cà phê ở nhiều hoàn cảnh tương tự như khi bạn đang làm việc tại văn phòng mà không cần lo lắng trong khi di chuyển tìm tài liệu.
+
+https://mastodon.social/@magiamgiashopee24h
+
+https://forum.cs-cart.com/user/165732-magiamgiashopee24h/
+
+https://www.behance.net/baonguyen105
+
+https://gitlab.com/kdnautoleechgiare.com
+
+https://fliphtml5.com/homepage/gtztf
+
+https://website-review.php8developer.com/da/www/magiamgiashopee24h.com
+
+https://a.pr-cy.ru/magiamgiashopee24h.com
+
+http://prlog.ru/analysis/magiamgiashopee24h.com
+
+https://babiato.co/members/devpro.100231/#about
+
+https://diendan.hocmai.vn/members/hungnguyenbn.2663210/
+
+https://www.debate.org/simphongthuy24h/
+
+http://www.rohitab.com/discuss/user/178176-magiamgiashopee24h/
+
+https://www.instapaper.com/p/9988004
+
+https://bbpress.org/forums/profile/magiamgiashopee24h/
+
+https://folkd.com/user/magiamgiashopee24h
+
+https://forumketqua.net/members/baonguyen93bg.282071/
+
+http://www.effecthub.com/user/1997662
+
+https://comicvine.gamespot.com/profile/magiamgiashop24/about-me/
+
+https://stackoverflow.com/users/story/17164703
+
+https://www.otofun.net/members/simphongthuy24h.781388/#about
+
+https://hauionline.edu.vn/members/simphongthuy24h.3469/
+
+http://forum.vietmoz.net/members/cua-hang-yen-mach.14941/
+
+https://tinhte.vn/members/baonguyen1993bg.2868065/
+
+https://www.techrum.vn/members/baonguyen93.172915/#about
+
+https://www.producthunt.com/discussions/m-t-s-d-ch-v-chung-toi-cung-c-p
+
+https://flipboard.com/@nguyenbao2021/d-n-c-a-t-i-2ignvjl4y
+
+https://www.scoop.it/topic/magiamgia24h
+
+https://twitter.com/ntbaobg
+
+https://slashdot.org/submission/14912435/m-gim-gi-shopee-cp-nht-mi-nht-hm-nay
+
+https://www.mixcloud.com/magiamgiashopee24h/
+
+https://vietfones.vn/forum/members/baobao93.195903/
+
+https://axieinfinity.com.vn/members/baonguyenbg.205/#about
+
+https://www.xosothantai.com/members/yenmach.443410/
+
+https://www.avforums.com/members/tazapak.917791/
+
+https://vi.gravatar.com/mgg24h
+
+https://devpost.com/baoproseo
+
+https://pubhtml5.com/homepage/kxqu
+
+http://www.authorstream.com/magiamgiashopee24h/
+
+https://sketchfab.com/magiamgia24h
+
+https://qiita.com/baoproseo
+
+https://myanimelist.net/profile/baoproseo
+
+https://www.bonanza.com/users/51440457/profile
+
+https://letterboxd.com/magiamgia24h/
+
+https://tapas.io/baoproseo
+
+https://www.myminifactory.com/users/vanbaonguyen
+
+https://os.mbed.com/users/magiamgiashopee24h/
+
+https://www.longisland.com/profile/magiamgiashopee24h
+
+https://www.wishlistr.com/magiamgiashopee24h/
+
+https://www.free-ebooks.net/profile/1363085/bao-bao
+
+https://www.hashatit.com/share_tagboard/223710/46441
+
+http://www.nfomedia.com/profile?uid=rKeVdeJ
+
+https://forums.eugensystems.com/memberlist.php?mode=viewprofile&u=193328
+
+https://www.trainsim.com/vbts/member.php?499150-magiamgiashopee24h
+
+https://descubre.beqbe.com/p/magiamgiashopee24h
+
+http://qooh.me/magiamgias24h
+
+https://www.plurk.com/magiamgiashopee24h
+
+https://www.pokecommunity.com/member.php?u=1021952
+
+http://www.anabolicsteroidforums.com/members/67458-magiamgiashopee2
+
+https://www.etsy.com/people/7utvvzmko25f5yop
+
+https://www.spreaker.com/user/15967269
+
+https://linktr.ee/magiamgiashopee24h
+
+https://cycling74.com/author/61da76a45e4db16e7b91d292
+
+https://band.us/band/86353270
+
+https://www.question2answer.org/qa/user/magiamgiashopee24h
+
+https://amara.org/vi/profiles/profile/zm_qTXsFpQJK_BL2XOsPVp2sQi3G8HVP63wacRQqpwo/
+
+https://www.misterpoll.com/users/2516485
+
+https://www.rctech.net/forum/members/magiamgia24h-264841.html
+
+https://www.huntingnet.com/forum/members/magiamgiashopee24h.html
+
+https://www.hebergementweb.org/members/magiamgiashopee24h.202778/
+
+http://www.pokerinside.com/profiles/view/458720
+
+http://onlineboxing.net/jforum/user/profile/147638.page
+
+https://www.linkedin.com/pulse/review-top-4-noi-com-dien-midea-dang-mua-nhat-hien-n-bao-nguyen
+
+https://www.webtoolhub.com/profile.aspx?user=42288628
+
+http://ttlink.com/magiamgiashopee24h
+
+https://www.hulkshare.com/magiamgiashopee24h
+
+https://hub.docker.com/u/magiamgiashopee24h
+
+https://soundcloud.com/magiamgiashopee24h
+
+https://www.goodreads.com/user/show/145846581-baopro
+
+https://www.skillshare.com/profile/Van-Bao-Nguyen/318454066
+
+https://vimeo.com/user162948887
+
+https://issuu.com/magiamgiashopee24h
+
+https://www.wattpad.com/user/baohoanbg
+
+https://magiamgiashopee24h.mystrikingly.com/
+
+https://magiamgiashopee24h.gumroad.com/p/magiamgiashopee24h
+
+https://www.themehorse.com/support-forum/users/baoproseo/
+
+https://trello.com/b/63auSDud/magiamgiashopee24h
+
+https://www.turnkeylinux.org/user/1660492
+
+https://www.veoh.com/users/magiamgiashopee24h
+
+https://forums.prosportsdaily.com/member.php?1140469-magiamgia24h
+
+https://www.zotero.org/magiamgiashopee24h/cv
+
+https://forums.iis.net/members/magiamgiashopee24h.aspx
+
+https://myspace.com/magiamgiashopee24h
+
+http://www.lawrence.com/users/magiamgiashopee24h/
+
+https://www.bakespace.com/members/profile/magiamgiashopee24h/1434849/
+
+https://my.archdaily.com/us/@magiamgiashopee24h
+
+https://www.blurb.com/user/magiamgia24h
+
+https://www.madinamerica.com/forums/users/magiamgiashopee24h/
+
+https://www.mojomarketplace.com/user/magiamgiashopee24h-TClxhdYejy
+
+https://www.podomatic.com/podcasts/baoproseo
+
+https://www.theodysseyonline.com/user/@magiamgiashopee24h
+
+https://www.equestrianbookfair.com/UserProfile/tabid/57/userId/56696/Default.aspx
+
+http://battlebrothersgame.com/forums/users/magiamgiashopee24h/
+
+https://vrc.org.au/forums/users/magiamgiashopee24h/
+
+https://www.bsl24.de/users/mgg24h/My-Profile
+
+https://www.doyoubuzz.com/bao-nguyen-1
+
+https://pbase.com/magiamgiashopee24h/profile
+
+https://community.atlassian.com/t5/user/viewprofilepage/user-id/4701207
+
+https://forums.giantitp.com/member.php?254846-magiamgia24h
+
+https://gab.com/magiamgiashopee24h
+
+https://www.mapleprimes.com/users/magiamgiashopee24h
+
+https://forum.singaporeexpats.com/memberlist.php?mode=viewprofile&u=357478
+
+https://player.me/magiamgiashopee24h/about
+
+https://magiamgiashopee24h.newgrounds.com/
+
+https://www.diigo.com/user/mgg24h
+
+https://speakerdeck.com/magiamgiashopee24h
+
+https://gfycat.com/@magiamgia24h
+
+https://seekingalpha.com/user/55676070/comments
+
+https://8tracks.com/magiamgiashopee24h
+
+https://www.thingiverse.com/magiamgiashopee24h/designs
+
+https://www.provenexpert.com/magiamgiashopee24h/
+
+https://www.domestika.org/pt/magiamgiashopee24h
+
+https://www.woddal.com/magiamgia24h
+
+https://git.project-hobbit.eu/baoproseo
+
+https://ignitiondeck.com/id/dashboard/?backer_profile=141526
+
+https://500px.com/p/baoproseo?view=photos
+
+http://www.aytoloja.org/jforum/user/profile/209616.page
+
+https://starity.hu/profil/310628-magiamgiashopee24h/
+
+https://artmight.com/user/profile/379126
+
+http://foxsheets.com/UserProfile/tabid/57/userId/79495/Default.aspx
+
+https://knowyourmeme.com/users/magiamgiashopee24h
+
+https://uphillathlete.com/forums/users/baoproseo/
+
+http://www.good-tutorials.com/users/magiam24h
+
+https://play.eslgaming.com/player/17526967/
+
+https://www.bahamaslocal.com/userprofile/111140/magiamgiashopee24h.html
+
+https://ko-fi.com/magiamgiashopee24h81047
+
+https://www.oaklandperio.com/User-Profile/UserId/520808
+
+https://nootheme.com/forums/users/magiamgiashopee24h/
+
+http://wiznotes.com/UserProfile/tabid/84/userId/1460165/Default.aspx
+
+https://docs.google.com/file/d/1pSyRKtjrk3Z5hLmZbd4xZGaXzWYl7wAi/view
+
+https://myopportunity.com/profile/bao-nguyen-12/hm
+
+https://www.mobypicture.com/user/magiamgiashopee24h
+
+http://www.mappery.com/user.php?name=magiamgiashopee24h
+
+https://timeswriter.com/members/magiamgiashopee24h/profile/
+
+https://englishbaby.com/findfriends/gallery/detail/2387003
+
+https://wefunder.com/baonguyen9
+
+http://hawkee.com/profile/915426/
+
+http://www.heromachine.com/forums/users/magiamgiashopee24h/
+
+http://www.sonongnghiep.hochiminhcity.gov.vn/Lists/Hoi_dap_chinh_sach_DB/DispForm.aspx?ID=1578
+
+https://forum.acronis.com/it/user/382165
+
+https://www.magcloud.com/user/magiamgiashopee24h
+
+https://www.deviantart.com/magiamgiashopee24h/
+
+https://github.com/seobaonguyen
+
+http://www.tienganh.com.vn/member.php?666495-mgg24h
+
+https://www.divephotoguide.com/user/magiamgiashopee24h/
+
+https://forums.kleientertainment.com/profile/1416317-magiamgiashopee/?tab=field_core_pfield_16
+
+https://www.helpforenglish.cz/profile/233167-magiamgiashopee24h
+
+https://bookme.name/magiamgiashopee24h
+
+https://www.crokes.com/magiamgiashopee24h/profile/
+
+https://www.couchsurfing.com/people/bao-nguyen-76
+
+https://ello.co/mgg24h/post/ikvdsftwwmf-pqho3v7alg
+
+https://able2know.org/user/mgg24h/
+
+https://cipres.fogbugz.com/default.asp?693258_0v4pjlhm
+
+https://www.imdb.com/user/ur148300581/
+
+https://www.stem.org.uk/user/1037171
+
+https://dribbble.com/magiamgiashopee24h/about
+
+https://calis.delfi.lv/profils/lietotajs/251111-magiamgiashopee24h/
+
+https://www.kickstarter.com/profile/1871952960/about
+
+https://experiment.com/users/mmagiamgiashopee24h/
+
+https://mythem.es/forums/users/magiamgiashopee24h/
+
+https://www.viki.com/users/kdnautoleechgiare_co_625/about
+
+https://profile.hatena.ne.jp/mgg24h/
+
+https://buddypress.org/members/baoproseo/profile/
+
+https://seedandspark.com/user/magiamgiashopee24h/
+
+https://about.me/magiamgiashopee24h
+
+https://www.flickr.com/people/194394806@N03/
+
+https://start.me/p/NxyR17/simphongthuy24h
+
+https://magiamgiashopee24h.blogspot.com/
+
+Bên cạnh đó khả năng liên kết và tương thích cực cao với máy tính chạy Windows là giải pháp được nhiều người lựa chọn. Bạn có thể chỉnh sửa tài liệu được tạo ra từ hệ điều hành windows với khả năng tương thích và đồng bộ dễ dàng.
+
+Một điểm khác biệt so với các sản phẩm cùng phân khúc đó là Microsoft cung cấp cho người dùng chung trong một tài khoản có dung lượng sử dụng lưu trữ 15GB miễn phí lưu trên dịch vụ đám mây OneDrive dễ dàng nhất.
+
+Cách chọn máy tính bảng Windows tốt nhất
+
+Sau đây là một số các tiêu chí chọn máy tính bảng Windows đảm bảo phù hợp nhất với mục đích sử dụng hàng ngày của mình.
+
+Căn cứ vào mục đích sử dụng để chọn cấu hình máy
+
+Cấu hình máy tính bảng được ưu tiên hàng đầu khi chọn mua máy tính bảng Windows. Phụ thuộc nhiều vào mục đích sử dụng của bạn là gì? Ví dụ là nhân viên văn phòng đơn thuần, người làm công việc thiết kế, hay phục vụ nhu cầu giải trí, chơi game. Với những người lựa chọn máy tính bảng thì thường có khuynh hướng liên quan đến công việc và hỗ trợ ứng dụng văn phòng nhiều hơn.
+
+Vì thế bạn ưu tiên lựa chọn các sản phẩm tầm trung cùng với Type Cover và Touch Cover để thao tác xử lý được nhanh chóng và thuận tiện nhiều hơn. Ngoài ra những dòng máy tính bảng này còn tích hợp thêm bút cảm ứng tiện dụng có thể giúp bạn trải nghiệm chân thực  chi tiết  nhất các thao tác thiết kế, bản vẽ  và thiết kế chuyên nghiệp như dùng wacom chuyên dụng..
